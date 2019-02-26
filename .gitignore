@@ -1,0 +1,15 @@
+punchd/punchd
+libpunch/libpunch.a
+
+libvncview/libvncview
+libvncview/Makefile
+libvncview/*.usr
+
+fvclient/fvclient
+fvclient/Makefile
+fvclient/*.usr
+
+*.o
+*.d
+*.swp
+*~
